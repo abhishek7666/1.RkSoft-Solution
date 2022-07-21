@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="UFT-8">
+	<meta http-equiv="x-UA-compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="./assets/css/style.css">
+	
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Passion+One:wght@400;700&family=Poppins:wght@300;400&display=swap" rel="stylesheet">
+	
+	<title></title>
+</head>
+<body>
+	<div class="container">
+		<header class="head text-center" >
+			<h1>
+				RkSoft Solutions
+			</h1>
+		</header>	
+			<nav>
+				<ul class="navbar text-center">
+					<li>
+						<a href="index.html" class="active">
+							Home
+						</a>
+					</li>
+					
+					<li>
+						<a href="index.html">
+							Abouts
+						</a>
+					</li>
+					
+					<li>
+						<a href="index.html">
+							Team
+						</a>
+					</li>
+					
+					<li>
+						<a href="index.html">
+							Services
+						</a>
+					</li>
+					
+					<li>
+						<a href="index.html">
+							Contact
+						</a>
+					</li>
+				</ul>
+			</nav>
+			
+			<div class="heroimage">
+				<img src="./assets/images/img.jpg">
+			</div>
+			
+			<section class="info">
+				<h2>
+					About Us
+				</h2>
+				
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fermentum, augue in sollicitudin pulvinar, urna augue sagittis turpis, non tincidunt magna ex a turpis. Etiam nec varius metus. Nunc a tortor in erat consectetur ultrices et id elit. Nam metus diam, aliquet sit amet massa a, placerat tincidunt velit. Donec vel dui euismod, molestie nunc in, tristique justo. Sed ut convallis neque. Fusce nec sollicitudin lacus. Maecenas tincidunt luctus lectus, a vehicula felis consectetur eget. Maecenas ut nisi placerat, sodales urna et, iaculis mauris. Vivamus congue quam sed sapien finibus lobortis id sit amet velit. Ut at nibh congue, aliquet magna vel, vehicula nisi. Donec pulvinar risus interdum, posuere nunc quis, consequat ipsum. Duis commodo pulvinar aliquet. Pellentesque ac aliquam tortor.
+				</p>
+			<section>
+		
+	</div>
+</body>
+</html>
